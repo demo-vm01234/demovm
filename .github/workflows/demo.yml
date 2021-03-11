@@ -1,0 +1,204 @@
+name: 'Demo'
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
+
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+
+      - name: 'Install dependencies'
+        run: |
+          sleep 2m
